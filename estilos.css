@@ -3,6 +3,17 @@
     font-size: 16px;
 }
 
+h1 {
+    font-size: 2em;
+    text-align: center;
+    color: rosybrown;
+}
+
 .container {
     border: 1px solid red;
+}
+
+div.conteudo-lateral {
+    border: 1px solid royalblue;
+    float: right;
 }
